@@ -20,17 +20,17 @@ The app is a single-page application that meets the PWA criteria and is capable 
 
 To install the application, follow these steps:
 
-1. Clone the repository using git clone https://github.com/your-username/text-editor-app.git.
-2. Navigate to the project directory using cd text-editor-app.
+1. Clone the repository using git clone https://github.com/HollieSundra/JATE-Text-Editor
+2. Navigate to the project directory using cd jate-text-editor.
 3. Install the necessary dependencies using npm install.
 
 ## Usage
 
 To run the application, follow these steps:
 
-1. Navigate to the project directory using cd text-editor-app.
+1. Navigate to the project directory using cd jate-text-editor.
 2. Run the application using npm run start.
-3. Open a web browser and go to http://localhost:8080.
+3. Open a web browser and go to http://localhost:3000.
 4. You should see the text editor application with a client server folder structure.
 5. Enter your content and click off the DOM window. The content in the text editor has been saved with IndexedDB.
 6. Close the application and reopen it. The content in the text editor has been retrieved from IndexedDB.
@@ -51,8 +51,11 @@ To deploy the application to Heroku, follow the steps in the Heroku Deployment G
 
 ## Demo
 
+[Text Editor.webm](https://user-images.githubusercontent.com/106099150/232259063-71f3ee09-5188-49aa-b198-2f6e78e13e8e.webm)
 
+![Text Editor screenshot 1](https://user-images.githubusercontent.com/106099150/232259078-bf9ce2cd-73af-4e3d-9002-c17533220412.png)
 
+![Text Editor screenshot 2](https://user-images.githubusercontent.com/106099150/232259081-94e50b9a-6d40-4fa2-94b7-e470cbf2ea5a.png)
 
 ## Heroku Link
 
